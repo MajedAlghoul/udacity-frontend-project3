@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cores": "^0.8.5",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "node-fetch": "^3.3.2"
+  }
+}
